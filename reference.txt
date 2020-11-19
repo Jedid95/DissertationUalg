@@ -1,0 +1,88 @@
+#====== Library Versions =======================
+- python==3.8.3 -64bit
+- xknx==0.15.3 - https://pypi.org/project/xknx/
+- opencv-python==4.4.0.46 - https://pypi.org/project/opencv-python/
+- mxnet==1.6.0 - https://pypi.org/project/mxnet/
+- gluoncv==0.8.0 - https://pypi.org/project/gluoncv/
+
+
+#================== KNX ========================
+
+ - Change the ip data in the knxip_interface.py file for the ip to be connected
+
+#Reference - Links
+- https://support.knx.org/hc/en-us/sections/360000827779-KNX-Virtual
+- https://xknx.io/
+- https://www.youtube.com/watch?v=rQ75yWZ5fzQ
+- https://pypi.org/project/knx/
+- https://www.open-homeautomation.com/2016/05/16/interfacing-a-knx-bus-with-python/
+- https://www.youtube.com/watch?v=RyD1AlOkb5E
+- https://support.knx.org/hc/en-us
+
+
+#Reference - Articles
+- https://www.sciencedirect.com/science/article/pii/S2405896318308954
+- https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012055/meta
+
+
+
+#============== Pose Estimation ================
+
+#Reference - Links
+- https://modelzoo.co/model/openpose-tensorflow
+- https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
+- https://www.lfd.uci.edu/~gohlke/pythonlibs/
+- https://spyjetson.blogspot.com/2019/10/jetsonnano-human-pose-estimation-using.html
+- https://github.com/CMU-Perceptual-Computing-Lab/openpose#installation-reinstallation-and-uninstallation
+- https://www.youtube.com/watch?v=QC9GTb6Wsb4
+- https://www.youtube.com/watch?v=nUjGLjOmF7o
+- https://github.com/ildoonet/tf-pose-estimation
+- https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+- https://www.programmersought.com/article/3282857837/
+- https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+- http://caffe.berkeleyvision.org/
+- https://github.com/BVLC/caffe
+
+#Reference - Articles
+- https://arxiv.org/pdf/1812.08008v2.pdf
+- https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pishchulin_DeepCut_Joint_Subset_CVPR_2016_paper.pdf
+- https://arxiv.org/pdf/1605.03170.pdf
+- https://openaccess.thecvf.com/content_ICCV_2017/papers/Fang_RMPE_Regional_Multi-Person_ICCV_2017_paper.pdf
+- https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.pdf
+- https://arxiv.org/abs/1811.12004
+- https://bdm.unb.br/handle/10483/24937
+- https://www.mdpi.com/2073-8994/12/5/744/htm
+- https://www.ri.cmu.edu/wp-content/uploads/2019/05/MS_Thesis___Gines_Hidalgo___latest_compressed.pdf
+- https://diglib.eg.org/xmlui/bitstream/handle/10.2312/cgvc20191264/103-104.pdf?sequence=1&isAllowed=y
+- http://norma.ncirl.ie/4279/1/shahilshaik.pdf
+- https://arxiv.org/abs/1812.00169
+- https://arxiv.org/pdf/1611.08050.pdf
+
+
+
+
+
+
+# ============= Format Keypoints =============
+# # Nose - 0 | # Right Eye - 1 | # Left Eye - 2 | # Right Ear - 3 | # Left Ear - 4 | # Right Shoulder - 5 | # Left Shoulder - 6
+# # Right Elblow - 7 | # Left Elbow - 8 | # Left Wrist - 9 | # Right Wrist - 10 | # Right Hip - 11 | # Left Hip - 12
+# # Right Knee - 13 | # Left Knee - 14 | # Right Ankle - 15 | # Left Ankle - 16
+# ==============================================================================================================================
+
+        
+        
+        https://docs.openvinotoolkit.org/latest/omz_models_public_ssd_mobilenet_v2_coco_ssd_mobilenet_v2_coco.html#specification
+        https://arxiv.org/pdf/1801.04381.pdf
+        https://github.com/dmlc/gluon-cv
+        https://github.com/weiliu89/caffe/tree/ssd
+        https://arxiv.org/pdf/1512.02325v4.pdf
+        https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md
+        https://cv.gluon.ai/model_zoo/pose.html#mxnet
+        https://cv.gluon.ai/model_zoo/pose.html#ms-coco-keypoints
+        https://cv.gluon.ai/build/examples_pose/cam_demo.html
+        https://github.com/dmlc/gluon-cv/releases
+        https://zephyrnet.com/pt/construir-um-trabalho-a-partir-de-rastreador-de-postura-em-casa-com-aws-deeplens-e-gluoncv/
+        
+
+
+
