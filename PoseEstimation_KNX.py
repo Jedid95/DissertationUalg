@@ -44,6 +44,8 @@ time.sleep(1)
 
 start = True
 
+
+
 # Just a place holder. Actual value calculated after 10 frames.
 fps = 10.0
 t = cv2.getTickCount()
@@ -55,6 +57,25 @@ count = 0
 # # Right Knee - 13 | # Left Knee - 14 | # Right Ankle - 15 | # Left Ankle - 16
 # ==============================================================================================================================
 
+#Function to activate a Switch
+async def activateSwitch():
+    xknx = XKNX()
+    await xknx.start()
+    switch = Switch(xknx, name="swith", group_address="0/1/0")
+    await switch.set_on()
+    await asyncio.sleep(2)
+    await xknx.stop()
+
+#Function to disable a Switch
+async def disableSwitch():
+    xknx = XKNX()
+    await xknx.start()
+    switch = Switch(xknx, name="swith", group_address="0/1/0")
+    await switch.set_off()
+    await asyncio.sleep(2)
+    await xknx.stop()
+
+    
 #Function for check position and determine the movement performed
 def checkPosition(points,img):
     RightShoulder = points[0,5] #Ombro direito
@@ -75,10 +96,13 @@ def checkPosition(points,img):
 
     elif y_RightWrist < y_RightShoulder:
         action = "Right Arm Up"
+        #asyncio.run(activateSwitch())
+        return 1
     
     elif y_LeftWrist < y_LeftShoulder:
         action = "Left Arm Up"
         #asyncio.run(disableSwitch())
+        return 0
 
     else: 
         action = "Arms Down"
@@ -89,24 +113,8 @@ def checkPosition(points,img):
     cv2.putText(img, action, (0, 35), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 1,
                 cv2.LINE_AA)
 
-#Function to activate a Switch
-async def activateSwitch():
-    xknx = XKNX()
-    await xknx.start()
-    switch = Switch(xknx, name="swith", group_address="0/0/1")
-    await switch.set_on()
-    await xknx.stop()
-
-#Function to disable a Switch
-async def disableSwitch():
-    xknx = XKNX()
-    await xknx.start()
-    switch = Switch(xknx, name="swith", group_address="0/0/1")
-    await switch.set_off()
-    await xknx.stop()
-
-
 while(True):
+    
     if count==0:
       t = cv2.getTickCount()
 
@@ -129,7 +137,16 @@ while(True):
 
         #img = cv_plot_keypoints(frame, pred_coords, confidence, class_IDs, bounding_boxs, scores, box_thresh=0.5, keypoint_thresh=0.2)
         img = cv_plot_keypoints(frame, pred_coords, confidence, class_IDs, bounding_boxs, scores, box_thresh=0.5, keypoint_thresh=0.2)
-        checkPosition(pred_coords,img)
+        flag = checkPosition(pred_coords,img)
+        if flag == 1:
+            asyncio.run(activateSwitch())
+
+        elif flag == 0:
+            asyncio.run(disableSwitch())
+            
+
+
+
     #print(pred_coords[0,5])
     size = img.shape[0:2]
     cv2.putText(img, "fps: {}".format(fps), (25, size[0] - 25), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 3)
