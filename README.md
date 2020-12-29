@@ -2,7 +2,7 @@
 
 Documentation and codes related to my master's degree in engineering at UAlg
 
-Gesture detection through pose estimation (https://cv.gluon.ai/) and interaction / control of KNX devices (https://xknx.io/).
+Gesture detection through pose estimation (https://cv.gluon.ai/ | https://cv.gluon.ai/build/examples_pose/cam_demo.html) and interaction / control of KNX devices (https://xknx.io/).
 
 Project still under development depending on the evolution of the master's thesis project
 - First step: Recognize a simple gesture and perform the action on the KNX device
