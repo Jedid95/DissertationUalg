@@ -58,7 +58,7 @@ def checkPosition(points,img):
     x_LeftShoulder, y_LeftShoulder = LeftShoulder
     x_LeftWrist, y_LeftWrist = LeftWrist
 
-
+    #test for Arms up or not
     if y_RightWrist < y_RightShoulder and y_LeftWrist < y_LeftShoulder:
         action="Both Arms Up"
 
