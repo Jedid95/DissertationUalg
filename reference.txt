@@ -72,17 +72,17 @@
 
         
         
-        https://docs.openvinotoolkit.org/latest/omz_models_public_ssd_mobilenet_v2_coco_ssd_mobilenet_v2_coco.html
-        https://arxiv.org/pdf/1801.04381.pdf
-        https://github.com/dmlc/gluon-cv
-        https://github.com/weiliu89/caffe/tree/ssd
-        https://arxiv.org/pdf/1512.02325v4.pdf
-        https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md
-        https://cv.gluon.ai/model_zoo/pose.html#mxnet
-        https://cv.gluon.ai/model_zoo/pose.html#ms-coco-keypoints
-        https://cv.gluon.ai/build/examples_pose/cam_demo.html
-        https://github.com/dmlc/gluon-cv/releases
-        https://zephyrnet.com/pt/construir-um-trabalho-a-partir-de-rastreador-de-postura-em-casa-com-aws-deeplens-e-gluoncv/
+https://docs.openvinotoolkit.org/latest/omz_models_public_ssd_mobilenet_v2_coco_ssd_mobilenet_v2_coco.html
+https://arxiv.org/pdf/1801.04381.pdf
+https://github.com/dmlc/gluon-cv
+https://github.com/weiliu89/caffe/tree/ssd
+https://arxiv.org/pdf/1512.02325v4.pdf
+https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/public/index.md
+https://cv.gluon.ai/model_zoo/pose.html#mxnet
+https://cv.gluon.ai/model_zoo/pose.html#ms-coco-keypoints
+https://cv.gluon.ai/build/examples_pose/cam_demo.html
+https://github.com/dmlc/gluon-cv/releases
+https://zephyrnet.com/pt/construir-um-trabalho-a-partir-de-rastreador-de-postura-em-casa-com-aws-deeplens-e-gluoncv/
         
 
 
