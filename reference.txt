@@ -87,3 +87,6 @@ https://zephyrnet.com/pt/construir-um-trabalho-a-partir-de-rastreador-de-postura
 
 
 
+#============== Versions ================
+v1 - PoseEstimation_KNX - Up right arm and lights on, up left arm and lights off
+v2 - PoseEstimation_KNX_v2 - Add menu for manipulate data of software KNX
