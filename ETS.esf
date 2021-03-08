@@ -1,0 +1,620 @@
+Funções Centrais.Iluminação.1/0/1	Iluminação geral (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/3	Iluminação interior (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/4	Iluminação espaços comuns (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/5	Iluminação suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/6	Iluminação cozinha (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/7	Iluminação sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/8	Iluminação circulação (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/9	Iluminação suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/10	Iluminação suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/11	Iluminação garagem (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação.1/0/13	Iluminação exterior (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/1	Estores geral (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/2	Estores geral (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/3	Estores geral (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/5	Estores espaços comuns (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/6	Estores espaços comuns (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/7	Estores espaços comuns (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/9	Estores suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/10	Estores suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/11	Estores suite 1 (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/13	Estores cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/14	Estores cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/15	Estores cozinha (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/17	Estores sala (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/18	Estores sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/19	Estores sala (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/25	Estores suite 2 (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/26	Estores suite 2 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/27	Estores suite 2 (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/29	Estores suite 3 (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/30	Estores suite 3 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/31	Estores suite 3 (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores.1/1/21	Estores circulação (move)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/22	Estores circulação (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores.1/1/23	Estores circulação (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Tomadas.1/2/1	Tomadas geral (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Tomadas.1/2/5	Tomadas suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Tomadas.1/2/7	Tomadas sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Tomadas.1/2/3	Tomadas interiores (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/4	Termostatos geral (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/5	Termostatos geral (setpoint temp value)	Uncertain (2 Byte)	Low	
+Funções Centrais.Climatização.1/3/10	Bomba circuladora (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/11	Bomba circuladora (status)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/1	Bomba calor (cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/2	Bomba calor (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/7	Piso radiante MA1 (all valves closed)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Climatização.1/3/8	Piso radiante MA2 (all valves closed)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Cenários.1/6/0	Exit Home (Scene 1)	Uncertain (1 Byte)	Low	1/6/1 1/6/2 1/6/3 1/6/4
+Funções Centrais.Cenários.1/6/1	Exit Suite 1 (Scene 2)	Uncertain (1 Byte)	Low	
+Funções Centrais.Cenários.1/6/2	Exit cozinha + sala (Scene 3)	Uncertain (1 Byte)	Low	
+Funções Centrais.Cenários.1/6/3	Exit Suite 2 (Scene 4)	Uncertain (1 Byte)	Low	
+Funções Centrais.Cenários.1/6/4	Exit Suite 3 (Scene 5)	Uncertain (1 Byte)	Low	
+Funções Centrais.Iluminação Automática.1/4/2	Iluminação horária (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/10	Iluminação dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/1	Iluminação horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/3	Iluminação 1+2 jardim horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/4	Iluminação pavimento exterior horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/5	Iluminação parede exterior horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/6	Iluminação parede pátio exterior horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/7	Iluminação teto exterior entrada horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/8	Iluminação parede exterior entrada horária (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/12	Iluminação 1+2 jardim dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/13	Iluminação pavimento exterior dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/14	Iluminação parede exterior dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/15	Iluminação parede pátio exterior dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/16	Iluminação teto exterior entrada dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/17	Iluminação parede exterior entrada dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Iluminação Automática.1/4/11	Iluminação dia/noite (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/2	Estores dia/noite (up/down)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/1	Estores dia/noite (block)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/11	Estores facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/10	Estores facade (block)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/3	Estores suite 1 dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/4	Estores cozinha dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/5	Estores sala dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/7	Estores suite 2 dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/8	Estores suite 3 dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/6	Estores hall + closet + wc + lavandaria dia/noite (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/12	Estores suite 1 facade (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/14	Estores sala facade (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/16	Estores hall entrada facade (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/18	Estores suite 2 facade (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/20	Estores suite 3 facade (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/23	Estores alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/38	Estores alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/13	Estores suite 1 facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/15	Estores sala facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/17	Estores hall entrada facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/19	Estores suite 2 facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/21	Estores suite 3 facade (position)	Uncertain (1 Byte)	Low	
+Funções Centrais.Estores Automáticos.1/5/25	Estores suite 1 alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/27	Estores cozinha alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/29	Estores sala alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/31	Estores hall + closet + wc + lavandaria alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/33	Estores suite 2 alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/35	Estores suite 3 alarme vento (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/26	Estores suite 1 alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/28	Estores cozinha alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/30	Estores sala alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/32	Estores hall + closet + wc + lavandaria alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/34	Estores suite 2 alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/36	Estores suite 3 alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/40	Estores suite 1 alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/41	Estores suite 1 alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/42	Estores cozinha alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/43	Estores cozinha alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/44	Estores sala alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/45	Estores sala alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/46	Estores hall + closet + wc + lavandaria alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/47	Estores hall + closet + wc + lavandaria alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/48	Estores suite 2 alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/49	Estores suite 2 alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/50	Estores suite 3 alarme gelo (enable)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/51	Estores suite 3 alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/24	Estores alarme vento (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Funções Centrais.Estores Automáticos.1/5/39	Estores alarme gelo (alarm)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/0	Iluminação lavatório dir. wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/1	Iluminação lavatório dir. wc suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/2	Iluminação lavatório esq. wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/3	Iluminação lavatório esq. wc suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/4	Iluminação leds + parede wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/5	Iluminação leds + parede wc suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/6	Iluminação teto wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/7	Iluminação teto wc suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/16	Iluminação cabeceira cama suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/17	Iluminação cabeceira cama suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/10	Iluminação teto closet suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/11	Iluminação teto closet suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/14	Iluminação leds suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/15	Iluminação leds suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/18	Iluminação parede cozinha (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/6
+Piso 0.Iluminação (On/Off).2/0/19	Iluminação parede cozinha (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/20	Iluminação leds cozinha (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/6
+Piso 0.Iluminação (On/Off).2/0/21	Iluminação leds cozinha (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/22	Iluminação teto cozinha (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/6
+Piso 0.Iluminação (On/Off).2/0/23	Iluminação teto cozinha (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/24	Iluminação parede sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/7
+Piso 0.Iluminação (On/Off).2/0/25	Iluminação parede sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/28	Iluminação leds sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/7
+Piso 0.Iluminação (On/Off).2/0/29	Iluminação leds sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/30	Iluminação leds hall entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/8
+Piso 0.Iluminação (On/Off).2/0/31	Iluminação leds hall entrada (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/32	Iluminação parede corredor (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/8
+Piso 0.Iluminação (On/Off).2/0/33	Iluminação parede corredor (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/36	Iluminação closet entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/8
+Piso 0.Iluminação (On/Off).2/0/37	Iluminação closet entrada (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/38	Iluminação teto wc serviço (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4
+Piso 0.Iluminação (On/Off).2/0/39	Iluminação teto wc serviço (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/40	Iluminação lavatório wc serviço (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4
+Piso 0.Iluminação (On/Off).2/0/41	Iluminação lavatório wc serviço (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/42	Iluminação teto lavandaria (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4
+Piso 0.Iluminação (On/Off).2/0/43	Iluminação teto lavandaria (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/44	Iluminação parede wc suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9 2/0/69
+Piso 0.Iluminação (On/Off).2/0/45	Iluminação parede wc suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/46	Iluminação teto wc suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9 2/0/69
+Piso 0.Iluminação (On/Off).2/0/47	Iluminação teto wc suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/48	Iluminação lavatório wc suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9
+Piso 0.Iluminação (On/Off).2/0/49	Iluminação lavatório wc suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/52	Iluminação cabeceira cama suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9
+Piso 0.Iluminação (On/Off).2/0/53	Iluminação cabeceira cama suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/54	Iluminação lavatório wc suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (On/Off).2/0/55	Iluminação lavatório wc suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/56	Iluminação teto wc suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10 2/0/71
+Piso 0.Iluminação (On/Off).2/0/57	Iluminação teto wc suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/58	Iluminação parede sanita wc suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10 2/0/71
+Piso 0.Iluminação (On/Off).2/0/59	Iluminação parede sanita wc suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/62	Iluminação cabeceira cama suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (On/Off).2/0/63	Iluminação cabeceira cama suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/64	Iluminação teto garagem (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/11
+Piso 0.Iluminação (On/Off).2/0/65	Iluminação teto garagem (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/66	Iluminação parede garagem (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/11
+Piso 0.Iluminação (On/Off).2/0/67	Iluminação parede garagem (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/69	Iluminação parede + teto wc suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/70	Iluminação parede + teto wc suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/71	Iluminação teto + parede wc suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/72	Iluminação teto + parede wc suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/8	Iluminação teto duche + sanita wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/9	Iluminação teto duche + sanita wc suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/12	Iluminação teto suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (On/Off).2/0/13	Iluminação teto suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/26	Iluminação teto sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/7
+Piso 0.Iluminação (On/Off).2/0/27	Iluminação teto sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/34	Iluminação teto corredor (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/8
+Piso 0.Iluminação (On/Off).2/0/35	Iluminação teto corredor (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/50	Iluminação teto suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9
+Piso 0.Iluminação (On/Off).2/0/51	Iluminação teto suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (On/Off).2/0/60	Iluminação teto suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (On/Off).2/0/61	Iluminação teto suite 3 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/10	Iluminação mesa cabeceira dir. suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (Dimmer).2/1/11	Iluminação mesa cabeceira dir. suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/12	Iluminação mesa cabeceira dir. suite 1 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/13	Iluminação mesa cabeceira dir. suite 1 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/14	Iluminação mesa cabeceira dir. suite 1 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/15	Iluminação mesa cabeceira esq. suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (Dimmer).2/1/16	Iluminação mesa cabeceira esq. suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/17	Iluminação mesa cabeceira esq. suite 1 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/18	Iluminação mesa cabeceira esq. suite 1 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/19	Iluminação mesa cabeceira esq. suite 1 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/25	Iluminação suspensa sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/7
+Piso 0.Iluminação (Dimmer).2/1/26	Iluminação suspensa sala (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/27	Iluminação suspensa sala (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/28	Iluminação suspensa sala (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/29	Iluminação suspensa sala (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/30	Iluminação suspensa hall entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/8
+Piso 0.Iluminação (Dimmer).2/1/31	Iluminação suspensa hall entrada (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/32	Iluminação suspensa hall entrada (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/33	Iluminação suspensa hall entrada (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/34	Iluminação suspensa hall entrada (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/0	Iluminação parede entrada suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (Dimmer).2/1/1	Iluminação parede entrada suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/2	Iluminação parede entrada suite 1 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/3	Iluminação parede entrada suite 1 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/4	Iluminação parede entrada suite 1 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/5	Iluminação parede sofá + oeste suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/5
+Piso 0.Iluminação (Dimmer).2/1/6	Iluminação parede sofá + oeste suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/7	Iluminação parede sofá + oeste suite 1 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/8	Iluminação parede sofá + oeste suite 1 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/9	Iluminação parede sofá + oeste suite 1 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/20	Iluminação suspensa cozinha (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/4 1/0/6
+Piso 0.Iluminação (Dimmer).2/1/21	Iluminação suspensa cozinha (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/22	Iluminação suspensa cozinha (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/23	Iluminação suspensa cozinha (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/24	Iluminação suspensa cozinha (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/35	Iluminação mesa cabeceira esq. suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9
+Piso 0.Iluminação (Dimmer).2/1/36	Iluminação mesa cabeceira esq. suite 2 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/37	Iluminação mesa cabeceira esq. suite 2 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/38	Iluminação mesa cabeceira esq. suite 2 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/39	Iluminação mesa cabeceira esq. suite 2 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/40	Iluminação mesa cabeceira dir. suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/9
+Piso 0.Iluminação (Dimmer).2/1/41	Iluminação mesa cabeceira dir. suite 2 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/42	Iluminação mesa cabeceira dir. suite 2 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/43	Iluminação mesa cabeceira dir. suite 2 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/44	Iluminação mesa cabeceira dir. suite 2 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/45	Iluminação parede corredor suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (Dimmer).2/1/46	Iluminação parede corredor suite 3 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/47	Iluminação parede corredor suite 3 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/48	Iluminação parede corredor suite 3 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/49	Iluminação parede corredor suite 3 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/50	Iluminação mesa cabeceira dir. suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (Dimmer).2/1/51	Iluminação mesa cabeceira dir. suite 3 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/52	Iluminação mesa cabeceira dir. suite 3 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/53	Iluminação mesa cabeceira dir. suite 3 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/54	Iluminação mesa cabeceira dir. suite 3 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/55	Iluminação mesa cabeceira esq. suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/3 1/0/10
+Piso 0.Iluminação (Dimmer).2/1/56	Iluminação mesa cabeceira esq. suite 3 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/57	Iluminação mesa cabeceira esq. suite 3 (dimming)	EIS 2 'Dimming - control' (4 Bit)	Low	
+Piso 0.Iluminação (Dimmer).2/1/58	Iluminação mesa cabeceira esq. suite 3 (brightness value)	Uncertain (1 Byte)	Low	
+Piso 0.Iluminação (Dimmer).2/1/59	Iluminação mesa cabeceira esq. suite 3 (status brightness)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/0	Estore wc suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/9
+Piso 0.Estores.2/2/1	Estore wc suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/10
+Piso 0.Estores.2/2/3	Estore wc suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/2	Estore wc suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/4	Estore wc suite 1 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/11
+Piso 0.Estores.2/2/5	Estore wc suite 1 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/6	Estore closet suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/9
+Piso 0.Estores.2/2/7	Estore closet suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/10
+Piso 0.Estores.2/2/9	Estore closet suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/8	Estore closet suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/10	Estore closet suite 1 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/11
+Piso 0.Estores.2/2/11	Estore closet suite 1 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/12	Estore 1 suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/9 2/2/127
+Piso 0.Estores.2/2/13	Estore 1 suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/10 2/2/128
+Piso 0.Estores.2/2/15	Estore 1 suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/14	Estore 1 suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/16	Estore 1 suite 1 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/11
+Piso 0.Estores.2/2/17	Estore 1 suite 1 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/18	Estore 2 suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/9 2/2/127
+Piso 0.Estores.2/2/19	Estore 2 suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/10 2/2/128
+Piso 0.Estores.2/2/21	Estore 2 suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/20	Estore 2 suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/22	Estore 2 suite 1 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/11 1/5/13
+Piso 0.Estores.2/2/23	Estore 2 suite 1 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/24	Estore 3 suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/9 2/2/127
+Piso 0.Estores.2/2/25	Estore 3 suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/10 2/2/128
+Piso 0.Estores.2/2/27	Estore 3 suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/26	Estore 3 suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/28	Estore 3 suite 1 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/11 1/5/13
+Piso 0.Estores.2/2/29	Estore 3 suite 1 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/30	Estore 1 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/13 2/2/131
+Piso 0.Estores.2/2/31	Estore 1 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/14 2/2/132
+Piso 0.Estores.2/2/33	Estore 1 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/32	Estore 1 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/34	Estore 1 cozinha (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/15
+Piso 0.Estores.2/2/35	Estore 1 cozinha (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/36	Estore 2 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/13 2/2/131
+Piso 0.Estores.2/2/37	Estore 2 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/14 2/2/132
+Piso 0.Estores.2/2/39	Estore 2 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/38	Estore 2 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/40	Estore 2 cozinha (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/15
+Piso 0.Estores.2/2/41	Estore 2 cozinha (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/42	Estore 3 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/13 2/2/135
+Piso 0.Estores.2/2/43	Estore 3 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/14 2/2/136
+Piso 0.Estores.2/2/45	Estore 3 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/44	Estore 3 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/46	Estore 3 cozinha (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/15
+Piso 0.Estores.2/2/47	Estore 3 cozinha (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/48	Estore 4 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/13 2/2/135
+Piso 0.Estores.2/2/49	Estore 4 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/14 2/2/136
+Piso 0.Estores.2/2/51	Estore 4 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/50	Estore 4 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/52	Estore 4 cozinha (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/15
+Piso 0.Estores.2/2/53	Estore 4 cozinha (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/54	Estore 1 sala (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/17
+Piso 0.Estores.2/2/55	Estore 1 sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/18
+Piso 0.Estores.2/2/57	Estore 1 sala (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/56	Estore 1 sala (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/58	Estore 1 sala (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/19 1/5/15
+Piso 0.Estores.2/2/59	Estore 1 sala (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/60	Estore 2 sala (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/17
+Piso 0.Estores.2/2/61	Estore 2 sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/18
+Piso 0.Estores.2/2/63	Estore 2 sala (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/62	Estore 2 sala (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/64	Estore 2 sala (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/19 1/5/15
+Piso 0.Estores.2/2/65	Estore 2 sala (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/66	Estore 3 sala (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/17 2/2/139
+Piso 0.Estores.2/2/67	Estore 3 sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/18 2/2/140
+Piso 0.Estores.2/2/69	Estore 3 sala (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/68	Estore 3 sala (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/70	Estore 3 sala (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/19
+Piso 0.Estores.2/2/71	Estore 3 sala (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/72	Estore 4 sala (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/17 2/2/139
+Piso 0.Estores.2/2/73	Estore 4 sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/18 2/2/140
+Piso 0.Estores.2/2/75	Estore 4 sala (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/74	Estore 4 sala (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/76	Estore 4 sala (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/19
+Piso 0.Estores.2/2/77	Estore 4 sala (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/78	Estore hall entrada (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/21
+Piso 0.Estores.2/2/79	Estore hall entrada (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/22
+Piso 0.Estores.2/2/81	Estore hall entrada (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/80	Estore hall entrada (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/82	Estore hall entrada (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/23 1/5/17
+Piso 0.Estores.2/2/83	Estore hall entrada (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/84	Estore closet entrada (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5 1/1/21
+Piso 0.Estores.2/2/85	Estore closet entrada (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6 1/1/22
+Piso 0.Estores.2/2/87	Estore closet entrada (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/86	Estore closet entrada (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/88	Estore closet entrada (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7 1/1/23
+Piso 0.Estores.2/2/89	Estore closet entrada (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/90	Estore wc serviço (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5
+Piso 0.Estores.2/2/91	Estore wc serviço (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6
+Piso 0.Estores.2/2/93	Estore wc serviço (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/92	Estore wc serviço (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/94	Estore wc serviço (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7
+Piso 0.Estores.2/2/95	Estore wc serviço (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/96	Estore lavandaria (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/5
+Piso 0.Estores.2/2/97	Estore lavandaria (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/6
+Piso 0.Estores.2/2/99	Estore lavandaria (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/98	Estore lavandaria (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/100	Estore lavandaria (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/7
+Piso 0.Estores.2/2/101	Estore lavandaria (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/102	Estore wc suite 2 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/25
+Piso 0.Estores.2/2/103	Estore wc suite 2 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/26
+Piso 0.Estores.2/2/105	Estore wc suite 2 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/104	Estore wc suite 2 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/106	Estore wc suite 2 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/27 1/5/19
+Piso 0.Estores.2/2/107	Estore wc suite 2 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/108	Estore suite 2 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/25
+Piso 0.Estores.2/2/109	Estore suite 2 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/26
+Piso 0.Estores.2/2/111	Estore suite 2 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/110	Estore suite 2 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/112	Estore suite 2 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/27 1/5/19
+Piso 0.Estores.2/2/113	Estore suite 2 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/114	Estore wc suite 3 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/29
+Piso 0.Estores.2/2/115	Estore wc suite 3 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/30
+Piso 0.Estores.2/2/117	Estore wc suite 3 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/116	Estore wc suite 3 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/118	Estore wc suite 3 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/31 1/5/21
+Piso 0.Estores.2/2/119	Estore wc suite 3 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/120	Estore suite 3 (move)	EIS 1 'Switching' (1 Bit)	Low	1/1/1 1/1/29
+Piso 0.Estores.2/2/121	Estore suite 3 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	1/1/2 1/1/30
+Piso 0.Estores.2/2/123	Estore suite 3 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/122	Estore suite 3 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/124	Estore suite 3 (position)	Uncertain (1 Byte)	Low	1/1/3 1/1/31 1/5/21
+Piso 0.Estores.2/2/125	Estore suite 3 (status position)	Uncertain (1 Byte)	Low	
+Piso 0.Estores.2/2/127	Estore 1+2+3 suite 1 (move)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/128	Estore 1+2+3 suite 1 (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/129	Estore 1+2+3 suite 1 (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/130	Estore 1+2+3 suite 1 (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/131	Estore 1+2 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/132	Estore 1+2 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/133	Estore 1+2 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/134	Estore 1+2 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/135	Estore 3+4 cozinha (move)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/136	Estore 3+4 cozinha (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/137	Estore 3+4 cozinha (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/138	Estore 3+4 cozinha (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/139	Estore 3+4 sala (move)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/140	Estore 3+4 sala (step/stop)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/141	Estore 3+4 sala (status move down)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Estores.2/2/142	Estore 3+4 sala (status move up)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Tomadas.2/3/0	Tomada sofá suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1 1/2/3 1/2/5
+Piso 0.Tomadas.2/3/1	Tomada sofá suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Tomadas.2/3/2	Tomada secretária suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1 1/2/3 1/2/5
+Piso 0.Tomadas.2/3/3	Tomada secretária suite 1 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Tomadas.2/3/4	Tomada 1 sofá sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1 1/2/3 1/2/7
+Piso 0.Tomadas.2/3/5	Tomada 1 sofá sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Tomadas.2/3/6	Tomada 2 sofá sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1 1/2/3 1/2/7
+Piso 0.Tomadas.2/3/7	Tomada 2 sofá sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Tomadas.2/3/8	Tomada hall entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1 1/2/3
+Piso 0.Tomadas.2/3/9	Tomada hall entrada (status)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/1	Termostato wc suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/2	Termostato wc suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/6	Termostato wc suite 1 (setpoint temp value)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/7	Termostato wc suite 1 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/9	Termostato suite 1 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/10	Termostato suite 1 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/12	Termostato suite 1 (setpoint temp value)	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/13	Termostato suite 1 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/15	Termostato cozinha + sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/16	Termostato cozinha + sala (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/18	Termostato cozinha + sala (setpoint temp value)	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/19	Termostato cozinha + sala (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/21	Termostato hall entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/22	Termostato hall entrada (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/24	Termostato hall entrada (setpoint temp value)	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/25	Termostato hall entrada (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/27	Termostato wc serviço (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/28	Termostato wc serviço (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/32	Termostato wc serviço (setpoint temp value)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/33	Termostato wc serviço (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/35	Termostato lavandaria (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/36	Termostato lavandaria (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/40	Termostato lavandaria (setpoint temp value)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/41	Termostato lavandaria (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/43	Termostato wc suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/44	Termostato wc suite 2 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/48	Termostato wc suite 2 (setpoint temp value)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/49	Termostato wc suite 2 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/51	Termostato suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/52	Termostato suite 2 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/54	Termostato suite 2 (setpoint temp value)	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/55	Termostato suite 2 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/57	Termostato wc suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/58	Termostato wc suite 3 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/62	Termostato wc suite 3 (setpoint temp value)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/63	Termostato wc suite 3 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/65	Termostato suite 3 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/3/4
+Piso 0.Termostatos.2/4/66	Termostato suite 3 (status on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/68	Termostato suite 3 (setpoint temp value)	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/69	Termostato suite 3 (status setpoint temp)	Uncertain (2 Byte)	Low	
+Piso 0.Termostatos.2/4/4	Termostato wc suite 1 (status mode)	Uncertain (1 Byte)	Low	
+Piso 0.Termostatos.2/4/5	Termostato wc suite 1 (disable)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/30	Termostato wc serviço (status mode)	Uncertain (1 Byte)	Low	
+Piso 0.Termostatos.2/4/31	Termostato wc serviço (disable)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/38	Termostato lavandaria (status mode)	Uncertain (1 Byte)	Low	
+Piso 0.Termostatos.2/4/39	Termostato lavandaria (disable)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/46	Termostato wc suite 2 (status mode)	Uncertain (1 Byte)	Low	
+Piso 0.Termostatos.2/4/47	Termostato wc suite 2 (disable)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/60	Termostato wc suite 3 (status mode)	Uncertain (1 Byte)	Low	
+Piso 0.Termostatos.2/4/61	Termostato wc suite 3 (disable)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/3	Termostato wc suite 1 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/11	Termostato suite 1 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/17	Termostato cozinha + sala (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/23	Termostato hall entrada (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/29	Termostato wc serviço (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/37	Termostato lavandaria (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/45	Termostato wc suite 2 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/53	Termostato suite 2 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/59	Termostato wc suite 3 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/67	Termostato suite 3 (status cool/heat)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Termostatos.2/4/71	Termostato wc suite 1 (setpoint temp value) - AUX	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/72	Termostato wc serviço (setpoint temp value) - AUX	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/73	Termostato lavandaria (setpoint temp value) - AUX	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/74	Termostato wc suite 2 (setpoint temp value) - AUX	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Termostatos.2/4/75	Termostato wc suite 3 (setpoint temp value) - AUX	Uncertain (2 Byte)	Low	1/3/5
+Piso 0.Piso Radiante.2/5/0	Piso radiante wc suite 1 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/1	Piso radiante wc suite 1 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/2	Piso radiante 1 suite 1 (valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/27
+Piso 0.Piso Radiante.2/5/3	Piso radiante 1 suite 1 (status valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/5
+Piso 0.Piso Radiante.2/5/4	Piso radiante 2 suite 1 (valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/27
+Piso 0.Piso Radiante.2/5/5	Piso radiante 2 suite 1 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/6	Piso radiante cozinha (valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/28
+Piso 0.Piso Radiante.2/5/7	Piso radiante cozinha (status valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/9 2/5/11
+Piso 0.Piso Radiante.2/5/8	Piso radiante 1 sala (valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/28
+Piso 0.Piso Radiante.2/5/9	Piso radiante 1 sala (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/10	Piso radiante 2 sala (valve)	EIS 1 'Switching' (1 Bit)	Low	2/5/28
+Piso 0.Piso Radiante.2/5/11	Piso radiante 2 sala (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/12	Piso radiante hall entrada (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/13	Piso radiante hall entrada (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/14	Piso radiante wc serviço (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/15	Piso radiante wc serviço (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/16	Piso radiante lavandaria (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/17	Piso radiante lavandaria (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/18	Piso radiante wc suite 2 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/19	Piso radiante wc suite 2 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/20	Piso radiante suite 2 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/21	Piso radiante suite 2 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/22	Piso radiante wc suite 3 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/23	Piso radiante wc suite 3 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/24	Piso radiante suite 3 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/25	Piso radiante suite 3 (status valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/27	Piso radiante 1+2 suite 1 (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Piso 0.Piso Radiante.2/5/28	Piso radiante cozinha + sala (valve)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/0	Iluminação parede pátio exterior (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/1	Iluminação parede pátio exterior (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/2	Iluminação parede exterior entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/3	Iluminação parede exterior entrada (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/4	Iluminação teto exterior entrada (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/5	Iluminação teto exterior entrada (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/6	Iluminação teto varanda suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/7	Iluminação teto varanda suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/8	Iluminação teto varanda sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/9	Iluminação teto varanda sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/10	Iluminação parede varanda suite 2 (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/11	Iluminação parede varanda suite 2 (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/12	Iluminação parede varanda sala (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/13	Iluminação parede varanda sala (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/14	Iluminação parede exterior (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/15	Iluminação parede exterior (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/16	Iluminação 1 jardim (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13 3/0/25
+Exterior.Iluminação (On/Off).3/0/17	Iluminação 1 jardim (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/18	Iluminação 2 jardim (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13 3/0/25
+Exterior.Iluminação (On/Off).3/0/19	Iluminação 2 jardim (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/20	Iluminação pavimento exterior (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/21	Iluminação pavimento exterior (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/25	Iluminação 1+2 jardim (on/off)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/26	Iluminação 1+2 jardim (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Iluminação (On/Off).3/0/22	Iluminação piscina (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/0/1 1/0/13
+Exterior.Iluminação (On/Off).3/0/23	Iluminação piscina (status)	EIS 1 'Switching' (1 Bit)	Low	
+Exterior.Tomadas.3/1/0	Tomadas varandas (on/off)	EIS 1 'Switching' (1 Bit)	Low	1/2/1
+Exterior.Tomadas.3/1/1	Tomadas varandas (status)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/1	Reset - registo parcial 1	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/2	Reset - registo parcial 2	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/3	Data início - registo parcial 1	Uncertain (3 Byte)	Low	
+Sistema.Energia.0/3/4	Data início - registo parcial 2	Uncertain (3 Byte)	Low	
+Sistema.Energia.0/3/11	Ler - registo fase 1	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/12	Tensão fase 1 [V]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/13	Corrente fase 1 [A]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/14	Potência ativa fase 1 [kW]	Uncertain (2 Byte)	Low	
+Sistema.Energia.0/3/15	Fator potência fase 1	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/16	Energia ativa fase 1 - registo total [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/17	Energia ativa fase 1 - registo parcial 1 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/18	Energia ativa fase 1 - registo parcial 2 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/19	Energia ativa fase 1 - registo parcial 2 (período anterior) [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/21	Ler - registo fase 2	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/22	Tensão fase 2 [V]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/23	Corrente fase 2 [A]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/24	Potência ativa fase 2 [kW]	Uncertain (2 Byte)	Low	
+Sistema.Energia.0/3/25	Fator potência fase 2	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/26	Energia ativa fase 2 - registo total [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/27	Energia ativa fase 2 - registo parcial 1 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/28	Energia ativa fase 2 - registo parcial 2 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/29	Energia ativa fase 2 - registo parcial 2 (período anterior) [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/31	Ler - registo fase 3	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/32	Tensão fase 3 [V]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/33	Corrente fase 3 [A]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/34	Potência ativa fase 3 [kW]	Uncertain (2 Byte)	Low	
+Sistema.Energia.0/3/35	Fator potência fase 3	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/36	Energia ativa fase 3 - registo total [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/37	Energia ativa fase 3 - registo parcial 1 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/38	Energia ativa fase 3 - registo parcial 2 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/39	Energia ativa fase 3 - registo parcial 2 (período anterior) [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/41	Ler - registo global	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Energia.0/3/42	Frequência global [Hz]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/43	Potência ativa global [kW]	Uncertain (2 Byte)	Low	
+Sistema.Energia.0/3/44	Potência reativa global [kVAr]	Uncertain (2 Byte)	Low	
+Sistema.Energia.0/3/45	Fator potência global	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/46	Energia ativa global - registo total [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/47	Energia ativa global - registo parcial 1 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/48	Energia ativa global - registo parcial 2 [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Energia.0/3/49	Energia ativa global - registo parcial 2 (período anterior) [kWh]	Uncertain (4 Byte)	Low	
+Sistema.Estação Meteorológica.0/1/0	Modo dia/noite	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Estação Meteorológica.0/1/1	Sensor luminosidade	Uncertain (2 Byte)	Low	
+Sistema.Estação Meteorológica.0/1/2	Sensor crepuscular	Uncertain (2 Byte)	Low	
+Sistema.Estação Meteorológica.0/1/3	Sensor vento	Uncertain (2 Byte)	Low	
+Sistema.Estação Meteorológica.0/1/4	Sensor temperatura	Uncertain (2 Byte)	Low	
+Sistema.Estação Meteorológica.0/1/5	Alarme vento	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Estação Meteorológica.0/1/6	Alarme gelo	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Estação Meteorológica.0/1/7	Proteção solar (nível 1)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Estação Meteorológica.0/1/8	Proteção solar (nível 2)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Data & Hora.0/0/1	Data	Uncertain (3 Byte)	Low	
+Sistema.Data & Hora.0/0/2	Hora	Uncertain (3 Byte)	Low	
+Sistema.Paineis Táteis.0/5/1	Painel tátil suite 1 (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/2	Painel tátil suite 1 (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/4	Painel tátil 1 sala (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/5	Painel tátil 1 sala (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/7	Painel tátil 2 sala (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/8	Painel tátil 2 sala (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/10	Painel tátil hall entrada (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/11	Painel tátil hall entrada (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/13	Painel tátil suite 2 (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/14	Painel tátil suite 2 (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/16	Painel tátil suite 3 (touch lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Paineis Táteis.0/5/17	Painel tátil suite 3 (light display)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/1	Detetor movimento hall entrada (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/6	Detetor movimento corredor (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/11	Detetor movimento garagem (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/2	Detetor movimento hall entrada (length of detection)	Uncertain (2 Byte)	Low	
+Sistema.Detetores Movimento.0/4/7	Detetor movimento corredor (length of detection)	Uncertain (2 Byte)	Low	
+Sistema.Detetores Movimento.0/4/12	Detetor movimento garagem (length of detection)	Uncertain (2 Byte)	Low	
+Sistema.Detetores Movimento.0/4/3	Detetor movimento hall entrada (detection leds)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/8	Detetor movimento corredor (detection leds)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/13	Detetor movimento garagem (detection leds)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Detetores Movimento.0/4/4	Detetor movimento hall entrada (luminosity)	Uncertain (2 Byte)	Low	
+Sistema.Detetores Movimento.0/4/9	Detetor movimento corredor (luminosity)	Uncertain (2 Byte)	Low	
+Sistema.Detetores Movimento.0/4/14	Detetor movimento garagem (luminosity)	Uncertain (2 Byte)	Low	
+Sistema.Botões Pressão.0/6/6	Botões pressão garagem (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/0	Botões pressão suite 1 (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/1	Botões pressão cozinha (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/3	Botões pressão circulação (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/4	Botões pressão suite 2 (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/5	Botões pressão suite 3 (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Botões Pressão.0/6/2	Botões pressão sala (orientation led)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Temperaturas.0/2/1	Temperatura suite 1	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/2	Temperatura 1 sala	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/3	Temperatura 2 sala	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/5	Temperatura hall entrada	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/9	Temperatura  suite 2	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/11	Temperatura suite 3	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/0	Temperatura wc suite 1	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/6	Temperatura wc serviço	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/7	Temperatura lavandaria	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/8	Temperatura wc suite 2	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/10	Temperatura wc suite 3	Uncertain (2 Byte)	Low	
+Sistema.Temperaturas.0/2/4	Temperatura sala (média)	Uncertain (2 Byte)	Low	
+Sistema.Atuadores.0/7/0	Controlo manual (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Atuadores.0/7/2	Estores (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Atuadores.0/7/1	Iluminação (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Atuadores.0/7/3	Tomadas (lock)	EIS 1 'Switching' (1 Bit)	Low	
+Sistema.Atuadores.0/7/4	Piso radiante (lock)	EIS 1 'Switching' (1 Bit)	Low	
