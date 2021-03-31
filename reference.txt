@@ -5,6 +5,7 @@
 - mxnet==1.6.0 - https://pypi.org/project/mxnet/
 - gluoncv==0.8.0 - https://pypi.org/project/gluoncv/
 - pyttsx3==2.90 - https://pypi.org/project/pyttsx3/
+- pysimplegui-4.38.0
 
 
 #================== KNX ========================
