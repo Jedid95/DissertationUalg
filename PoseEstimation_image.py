@@ -76,7 +76,7 @@ def checkPosition(points,img):
 
 while(True):
 
-    frame = cv2.imread( 'left_arm.jpg' )
+    frame = cv2.imread( '8.jpg' )
     frame = mx.nd.array(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)).astype('uint8')
 
     x, frame = gcv.data.transforms.presets.ssd.transform_test(frame, short=800, max_size=400)
